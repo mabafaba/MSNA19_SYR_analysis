@@ -1,0 +1,262 @@
+S.N.,"Governorate
+????????","Sub District
+???????",Community/Nearest Community,"PCODE
+Admin4","Cluster 
+?????? / ???????? ","Site Name
+??? ??????",PCODE.Sites,Surveys,Type.of.Settlement,Households,Population,Primary.Method.for.Data.Collection,Organisation.Name
+413,Aleppo/???,Atareb/?????,Oweijel,C1024,,Alfurkan,,5,collective_centre,726,4356,paper forms,archenova 
+76,Aleppo/???,Al Bab/?????,Ma'arrat Tamasrin,C3947,,Al-Baol Camp,,63,collective_centre,336,2014,paper forms,archenova 
+310,Aleppo/???,Jarablus/??????,Oweijel,C1024,,Zoghra,,5,,252,1510,paper forms,archenova 
+305,Aleppo/???,Jarablus/??????,Ma'arrat Tamasrin,C3947,,Jarablus 4 (Jbel)/ ?????? ??? 4 (???),,3,,200,1200,paper forms,archenova 
+300,Aleppo/???,Jarablus/??????,Batenta,C3939,,Al-Jabal,,1,,123,737,paper forms,archenova 
+54,Aleppo/???,Al Bab/?????,Kaftin,C3951,,Al Bab,,3,,118,710,paper forms,archenova 
+308,Aleppo/???,Jarablus/??????,Maaret Elekhwan,C3950,Maaret Tamsrin,Nour Camp (north of Marma Elhajar),CP000528,2,formal_camp,115,687,paper forms,archenova 
+69,Aleppo/???,Al Bab/?????,Batenta,C3939,,Reciption center in Albab,,2,,67,400,paper forms,archenova 
+303,Aleppo/???,Jarablus/??????,Zardana mashehad,C3938,,Camp 5/ ?????? ??? 5,,1,,63,379,paper forms,archenova 
+1426,Idleb/????,Badama/?????,Kaftin,C3951,,Ein Al Bayda/ ??? ??????? ,,1,,62,372,paper forms,archenova 
+1432,Idleb/????,Badama/?????,Kafr - Kafrehmul,C3942,,Salah Alden (Kherbet Eljoz)/ ???? ?????,,2,,41,245,paper forms,archenova 
+1425,Idleb/????,Badama/?????,Atma,C4130,Atma,Ataa Al Kheir/ ???? ?????,CP000059,5,informal_settlement,278,1670,KoBo,Global Communities
+443,Aleppo/???,Daret Azza/???? ???,Atma,C4130,Atma,Dayer Samaan collections,CP000059,5,informal_settlement,250,1499,KoBo,Global Communities
+209,Aleppo/???,Azaz/?????,Sarmada,C4121,Sarmada,Bab Al Noor/ ??? ?????,CP000445,5,informal_settlement,233,1395,Kobo,Global Communities
+472,Aleppo/???,Daret Azza/???? ???,Atma,C4130,Atma,Athar Association,CP000059,5,informal_settlement,205,1231,KoBo,Global Communities
+410,Aleppo/???,Atareb/?????,Sarmada,C4121,Sarmada,Collection of Maaret Alatareb,CP000453,5,informal_settlement,181,1085,Kobo,Global Communities
+478,Aleppo/???,Daret Azza/???? ???,Atma,C4130,Atma,Kasr Alheer Association,CP000059,5,informal_settlement,174,1041,KoBo,Global Communities
+468,Aleppo/???,Daret Azza/???? ???,Sarmada,C4121,Sarmada,Alkahraba Association,CP000279,5,informal_settlement,128,765,Kobo,Global Communities
+471,Aleppo/???,Daret Azza/???? ???,Termanin,C4125,,Almukawelon Association,,14,collective_centre,124,741,Kobo,Global Communities
+467,Aleppo/???,Daret Azza/???? ???,Atma,C4130,Atma,AlEtihad Alarabee Association,CP000059,5,informal_settlement,98,587,KoBo,Global Communities
+484,Aleppo/???,Daret Azza/???? ???,Atma,C4130,Atma,Alhadi Association,CP000059,5,informal_settlement,84,505,KoBo,Global Communities
+328,Aleppo/???,Atareb/?????,Atma,C4130,Atma,Shelter Centers Alatareb,CP000059,5,informal_settlement,66,396,KoBo,Global Communities
+489,Aleppo/???,Daret Azza/???? ???,Atma,C4130,Atma,Migbeena unfinished Houses,CP000059,5,informal_settlement,65,390,KoBo,Global Communities
+488,Aleppo/???,Daret Azza/???? ???,Termanin,C4125,Termanin,Almawared Association in Bimigbeena,CP000496,2,collective_centre,13,75,Kobo,Global Communities
+476,Aleppo/???,Daret Azza/???? ???,Suran (Al Bab),C1197,,Kareem Association,,34,,2500,15000,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+469,Aleppo/???,Daret Azza/???? ???,Zoghra,C2220,Jarablus,Almakhabez Association,,26,,1716,6738,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+473,Aleppo/???,Daret Azza/???? ???,Jarablus,C2227,Jarablus,Gardeenya Association,CP000017,10,informal_settlement,1312,7870,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+337,Aleppo/???,Atareb/?????,Jarablus,C2227,Jarablus,Alkamouna Camp,,5,,1247,7875,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+492,Aleppo/???,Daret Azza/???? ???,Al Bab,C1202,,Talas Association,,11,,1100,6600,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+408,Aleppo/???,Atareb/?????,Marma Elhajar,C2238,,Second Reif Al-Muhandiseen,,10,,863,4919,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+483,Aleppo/???,Daret Azza/???? ???,Qabasin,C1209,,Albashayer Beedeh,,63,collective_centre,766,4594,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+529,Aleppo/???,Zarbah/??????,Jarablus,C2227,Jarablus,Metcarlo Farms,CP000011,7,informal_settlement,644,3865,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+344,Aleppo/???,Atareb/?????,Lower Jrables,C2226,,Burg Alnumra Camp,,9,,459,2754,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+465,Aleppo/???,Daret Azza/???? ???,Al Bab,C1202,Al Bab,Albashayer Association,CP000457,9,informal_settlement,443,2660,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+464,Aleppo/???,Daret Azza/???? ???,Al Bab,C1202,,Albasel Association,,8,,332,1879,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+1362,Idleb/????,Idleb/????,Atma,C4130,Karama,Idleb,CP000142,5,informal_settlement,316,1895,primary method for data collection paper forms,Insani Yardimmlasma Dernegi – IYD
+125,Aleppo/???,Azaz/?????,Jarablus,C2227,Jarablus,Al Mokawama,,1,,285,1245,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+203,Aleppo/???,Azaz/?????,Jarablus,C2227,,Al Resalah (Al Armuda)/ ??????? (????????),,2,,262,1493,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+1395,Idleb/????,Maaret Tamsrin/???? ??????,Atma,C4130,Karama,Shekh Bahr Camps,CP000129,5,informal_settlement,249,1492,primary method for data collection paper forms,Insani Yardimmlasma Dernegi – IYD
+1385,Idleb/????,Maaret Tamsrin/???? ??????,Atma,C4130,Atma,Killy camps,,5,,242,1241,primary method for data collection paper forms,Insani Yardimmlasma Dernegi – IYD
+1345,Idleb/????,Salqin/?????,Big Nabgha,C2264,,A`edoon,,10,,220,1254,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+1384,Idleb/????,Maaret Tamsrin/???? ??????,Al Bab,C1202,,Kelly mercy Camps,,7,,200,1200,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+1348,Idleb/????,Salqin/?????,Qabasin,C1209,,Al Safsafa/ ????????,,1,informal_settlement,183,897,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+39,Aleppo/???,Jandairis/??????,Atma,C4130,,Al-Mohamadiah,,25,collective_centre,176,1057,primary method for data collection paper forms,Insani Yardimmlasma Dernegi – IYD
+654,Idleb/????,Ma'arrat An Nu'man/???? ???? ???????,Tal Aghbar - Tal Elagher,C2260,,Ma'arrat An Nu'man,,10,,156,889,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+622,Idleb/????,Ma'arrat An Nu'man/???? ???? ???????,Atma,C4130,Atma,Dana Camps,,5,,127,661,primary method for data collection paper forms,Insani Yardimmlasma Dernegi – IYD
+583,Idleb/????,Kafr Nobol/??? ???,Ghandorah,C2250,,Kafrsjnaa,,15,,120,680,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+1406,Idleb/????,Saraqab/?????,Shahid,C2261,,Saraqab schools,,5,,119,678,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+577,Idleb/????,Kafr Nobol/??? ???,Qadi Jrables,C2254,,collective shelters,,5,,110,627,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+576,Idleb/????,Kafr Nobol/??? ???,Ghandorah,C2250,,altaaon center,,10,,102,581,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+655,Idleb/????,Ma'arrat An Nu'man/???? ???? ???????,Halawaniyeh,C2219,,Ma'rah horma unfinished buliding,,2,,78,390,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+1294,Idleb/????,Harim/????,Al Bab,C1202,,alhaya alkarema mud houses,,3,,70,420,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+586,Idleb/????,Kafr Nobol/??? ???,Jarablus,C2227,,number1,,3,,58,348,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+173,Aleppo/???,Azaz/?????,Al Bab,C1202,,Yazibag_aljabal_camp5,,7,collective_centre,42,197,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+307,Aleppo/???,Jarablus/??????,Sweida - Qorret Tashli,C2259,,Lower Jrables Camp,,5,,40,228,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+232,Aleppo/???,Suran/?????,Ghanameh,C2266,,Albil,,10,,35,188,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+57,Aleppo/???,Al Bab/?????,Ghandorah,C2250,,Duyuf Al Sharqia/ ???? ??????? ,,27,collective_centre,35,185,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+369,Aleppo/???,Atareb/?????,Jeb Eldam Jrables,C2262,,Mahaba Association,,10,,34,195,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+156,Aleppo/???,Azaz/?????,Hfeira,C2243,,Karaj Sijjo North,,5,,32,182,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+1300,Idleb/????,Harim/????,Ghandorah,C2250,,Hayat Karema,,5,,30,175,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+1349,Idleb/????,Salqin/?????,Sheib,C2253,,Altaakhe,,5,,25,145,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+1429,Idleb/????,Badama/?????,Big Mortafaa,C2265,,Omar/ ???,,5,,20,114,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+363,Aleppo/???,Atareb/?????,Qabasin,C1209,,Akbia Association,,1,,13,47,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+26,Aleppo/???,Jandairis/??????,Lilawa,C2268,,Deir Ballut Camp,,5,,13,74,Mobile data collection tool,Insani Yardimmlasma Dernegi – IYD
+332,Aleppo/???,Atareb/?????,Kherbet Eljoz,C4231,Kherbet Eljoz,Al Hersh/ ?????,CP000326,20,informal_settlement,945,5668,KOBO,international Association for relief and development (ONSUR)
+1421,Idleb/????,Badama/?????,Kherbet Eljoz,C4231,Kherbet Eljoz,Al Hanbushiyeh,CP000113,8,informal_settlement,592,3552,KOBO,international Association for relief and development (ONSUR)
+251,Aleppo/???,Suran/?????,Kherbet Eljoz,C4231,Kherbet Eljoz,Ekkdeh/ ?????,CP000325,9,informal_settlement,535,3211,KOBO,international Association for relief and development (ONSUR)
+1293,Idleb/????,Harim/????,Kherbet Eljoz,C4231,Kherbet Eljoz,alhaya alkarema,CP000327,3,informal_settlement,382,2294,KOBO,international Association for relief and development (ONSUR)
+1359,Idleb/????,Idleb/????,Ein El-Bayda (Badama),C4229,Obein,Abrar Accommodation center,,6,informal_settlement,348,2151,KOBO,international Association for relief and development (ONSUR)
+1352,Idleb/????,Salqin/?????,Zayzafun - Ekdeh,C1658,Azaz,Om Al Moa'mnon Camp,CP000006,22,informal_settlement,342,2053,KOBO,international Association for relief and development (ONSUR)
+677,Idleb/????,Ariha/???? ?????,Kherbet Eljoz,C4231,Kherbet Eljoz,many collective centers,,5,,317,1415,KOBO,international Association for relief and development (ONSUR)
+1392,Idleb/????,Maaret Tamsrin/???? ??????,Kherbet Eljoz,C4231,Kherbet Eljoz,Alfonon school,,5,,283,1421,KOBO,international Association for relief and development (ONSUR)
+61,Aleppo/???,Al Bab/?????,Azaz,C1564,,Shabiran Camp (west of Qabasin),,1,,233,1400,KOBO,international Association for relief and development (ONSUR)
+623,Idleb/????,Ma'arrat An Nu'man/???? ???? ???????,Kherbet Eljoz,C4231,Kherbet Eljoz,East Dana Camp,,1,,233,1022,KOBO,international Association for relief and development (ONSUR)
+1431,Idleb/????,Badama/?????,Kherbet Eljoz,C4231,Kherbet Eljoz,Saladin2,,5,,194,784,KOBO,international Association for relief and development (ONSUR)
+849,Idleb/????,Dana/????,Kherbet Eljoz,C4231,Kherbet Eljoz,Salah Eldin (including Al Islah)/ ???? ?????,,2,,180,912,KOBO,international Association for relief and development (ONSUR)
+487,Aleppo/???,Daret Azza/???? ???,Kherbet Eljoz,C4231,Kherbet Eljoz,Madajen Hur,,3,,138,574,KOBO,international Association for relief and development (ONSUR)
+587,Idleb/????,Kafr Nobol/??? ???,Kherbet Eljoz,C4231,Kherbet Eljoz,Um Alseer Camp,CP000332,2,informal_settlement,113,677,KOBO,international Association for relief and development (ONSUR)
+302,Aleppo/???,Jarablus/??????,Kherbet Eljoz,C4231,Kherbet Eljoz,Al-Mal`ab,,3,,107,458,KOBO,international Association for relief and development (ONSUR)
+1435,Idleb/????,Badama/?????,Kherbet Eljoz,C4231,Kherbet Eljoz,Shuhadaa Syria,,2,,92,393,KOBO,international Association for relief and development (ONSUR)
+817,Idleb/????,Dana/????,Daret Azza,C1139,,Ehsas 1/ ????? 1,,3,collective_centre,867,5204,Mobile Data Collection Tool,JANAWATAN
+671,Idleb/????,Ma'arrat An Nu'man/???? ???? ???????,Daret Azza,C1139,,Jedar Marata,,5,,205,1230,Mobile Data Collection Tool,JANAWATAN
+134,Aleppo/???,Azaz/?????,Daret Azza,C1139,,Al-Shabeba,,10,,147,882,Mobile Data Collection Tool,JANAWATAN
+301,Aleppo/???,Jarablus/??????,Daret Azza,C1139,,Al-Khalawi Camp,,10,,146,875,Mobile Data Collection Tool,JANAWATAN
+367,Aleppo/???,Atareb/?????,Zarzita,C1138,,Alsafa Association,,5,,108,650,Mobile Data Collection Tool,JANAWATAN
+1379,Idleb/????,Maaret Tamsrin/???? ??????,Zarzita,C1138,,Albnian 2,,5,,104,625,Mobile Data Collection Tool,JANAWATAN
+416,Aleppo/???,Atareb/?????,Deir Samaan,C6766,,Rama,,5,,91,548,Mobile Data Collection Tool,JANAWATAN
+779,Idleb/????,Dana/????,Daret Azza,C1139,,Al Takaful/ ???????,,5,,50,300,Mobile Data Collection Tool,JANAWATAN
+811,Idleb/????,Dana/????,Deir Samaan,C6766,,Doaa/ ??????,,5,,29,174,Mobile Data Collection Tool,JANAWATAN
+1291,Idleb/????,Harim/????,Zarzita,C1138,,alfrdan mud houses,,5,,13,75,Mobile Data Collection Tool,JANAWATAN
+858,Idleb/????,Dana/????,Shamarin,C1566,Azaz,Southern Aleppo countryside,CP000004,5,informal_settlement,1269,7614,Both ,Maram
+1290,Idleb/????,Harim/????,Albil,C1669,Azaz,alfrdan,CP000494,48,formal_camp,454,2725,Both ,Maram
+364,Aleppo/???,Atareb/?????,Azaz,C1564,,Al Manahel Housing cluster,,3,,267,1600,Both ,Maram
+1369,Idleb/????,Idleb/????,Hoteh,C1146,,Northern Ora Camps,,18,collective_centre,6440,38642,Mobile Data Collection,SECD
+119,Aleppo/???,Azaz/?????,Maaret Atarib,C1038,,Abo Algolan Camp,,28,collective_centre,3247,19484,Mobile Data Collection,SECD
+407,Aleppo/???,Atareb/?????,Hoteh,C1146,,orem alsoghra camps,,9,collective_centre,3198,19190,Mobile Data Collection,SECD
+1430,Idleb/????,Badama/?????,Hoteh,C1146,,Saladin1,,2,collective_centre,3069,18414,Mobile Data Collection,SECD
+1193,Idleb/????,Dana/????,Hoteh,C1146,,Ghetaa Al Rahma2 (Al Kamouneh)/  (???? ??????2 (???????,,4,collective_centre,2560,15360,Mobile Data Collection,SECD
+256,Aleppo/???,Ghandorah/??????,Hoteh,C1146,,Harakat Camp,,6,collective_centre,2409,14455,Mobile Data Collection,SECD
+575,Idleb/????,Kafr Nobol/??? ???,Hur,C1140,,Alrahma camp,,6,collective_centre,2151,12903,Mobile Data Collection,SECD
+347,Aleppo/???,Atareb/?????,Atareb,C1022,,collection of Batbu camp,,29,collective_centre,2048,12288,Mobile Data Collection,SECD
+752,Idleb/????,Dana/????,Majbineh,C1148,,Al Hiba/ ?????,,3,collective_centre,1699,10191,Mobile Data Collection,SECD
+440,Aleppo/???,Daret Azza/???? ???,Majbineh,C1148,,Alqatareeh camp,,2,collective_centre,1331,7984,Mobile Data Collection,SECD
+349,Aleppo/???,Atareb/?????,Hoteh,C1146,,Kafar Hood Camp,,4,collective_centre,1297,7783,Mobile Data Collection,SECD
+1394,Idleb/????,Maaret Tamsrin/???? ??????,Hoteh,C1146,,Maaret Tamsrin Camps,,3,collective_centre,1251,7503,Mobile Data Collection,SECD
+56,Aleppo/???,Al Bab/?????,Hoteh,C1146,,Al hal Souq,,4,collective_centre,1250,7498,Mobile Data Collection,SECD
+1423,Idleb/????,Badama/?????,Batbu,C1025,,Al-Naher,,5,,1136,6817,Mobile Data Collection,SECD
+358,Aleppo/???,Atareb/?????,Majbineh,C1148,,Southern Batabo Camp,,3,collective_centre,1116,6693,Mobile Data Collection,SECD
+479,Aleppo/???,Daret Azza/???? ???,Little Orm,C1027,,Koga Chicken Farm,,15,,924,5267,Mobile Data Collection,SECD
+70,Aleppo/???,Al Bab/?????,Hur,C1140,,Tarhen informal site,,2,collective_centre,609,3654,Mobile Data Collection,SECD
+1197,Idleb/????,Dana/????,Reif Al-Muhandiseen,C8057,,Islamuna 2/ ??????? 2,,37,,597,3403,Mobile Data Collection,SECD
+1428,Idleb/????,Badama/?????,Batbu,C1025,,Omar Al-Farouk,,10,,561,3364,Mobile Data Collection,SECD
+528,Aleppo/???,Zarbah/??????,Hoteh,C1146,,Alborah camp,,1,collective_centre,509,3053,Mobile Data Collection,SECD
+807,Idleb/????,Dana/????,Hoteh,C1146,,Atma Collective Center,,1,collective_centre,502,3010,Mobile Data Collection,SECD
+496,Aleppo/???,Daret Azza/???? ???,Big Orm,C1029,,Albasheer,,4,collective_centre,434,2602,Mobile Data Collection,SECD
+828,Idleb/????,Dana/????,Big Orm,C1029,,Moutawa 2/ ???? 2 ,,1,collective_centre,381,2285,Mobile Data Collection,SECD
+1347,Idleb/????,Salqin/?????,Batbu,C1025,Atareb,Al Hamza,CP000458,5,informal_settlement,359,2151,Mobile Data Collection,SECD
+1405,Idleb/????,Saraqab/?????,Hur,C1140,,Saraqab Camps,,1,collective_centre,314,1884,Mobile Data Collection,SECD
+1387,Idleb/????,Maaret Tamsrin/???? ??????,Big Orm,C1029,,taybet alemam ,,2,collective_centre,259,1554,Mobile Data Collection,SECD
+933,Idleb/????,Dana/????,Big Orm,C1029,,Abu Obeida Ben Aljaraah/ ??? ????? ?? ??????,,3,collective_centre,237,1422,Mobile Data Collection,SECD
+1346,Idleb/????,Salqin/?????,Little Orm,C1027,,Abo Talha,,5,,233,1400,Mobile Data Collection,SECD
+495,Aleppo/???,Daret Azza/???? ???,Batbu,C1025,,Ahmed Kulleh Builbing,,10,,210,1257,Mobile Data Collection,SECD
+290,Aleppo/???,Ghandorah/??????,Batbu,C1025,,Al Matar Camp (Tal Aghbar Camp),,5,,201,1206,Mobile Data Collection,SECD
+652,Idleb/????,Ma'arrat An Nu'man/???? ???? ???????,Batbu,C1025,,Al-sawame camp,,10,,192,1150,Mobile Data Collection,SECD
+582,Idleb/????,Kafr Nobol/??? ???,Hoteh,C1146,,Kafr Nobol,,1,collective_centre,188,1127,Mobile Data Collection,SECD
+454,Aleppo/???,Daret Azza/???? ???,Reif Al-Muhandiseen,C8057,,Separated tents & Unfinished houses,,13,,178,1068,Mobile Data Collection,SECD
+432,Aleppo/???,Daret Azza/???? ???,Tqad,C1143,,Ebadu Alrahman Association,,5,,175,1051,Mobile Data Collection,SECD
+441,Aleppo/???,Daret Azza/???? ???,Tqad,C1143,,Alshahbaa camp,,1,collective_centre,160,962,Mobile Data Collection,SECD
+366,Aleppo/???,Atareb/?????,Balenta,C6682,,Alhasan association,,10,,147,879,Mobile Data Collection,SECD
+653,Idleb/????,Ma'arrat An Nu'man/???? ???? ???????,Big Orm,C1029,,Ma'arat Alseen Camp,,5,,144,864,Mobile Data Collection,SECD
+1383,Idleb/????,Maaret Tamsrin/???? ??????,Khan Al-Asal,C6428,,Bonyan,,51,,142,849,Mobile Data Collection,SECD
+513,Aleppo/???,Jebel Saman/??? ?????,Jeineh,C1032,,Andomi,,5,,136,816,Mobile Data Collection,SECD
+673,Idleb/????,Ariha/???? ?????,Othmaniya,C2912,,Ariha Camps,,7,,113,678,Mobile Data Collection,SECD
+1433,Idleb/????,Badama/?????,Khan Al-Asal,C6428,,Salma1,,44,collective_centre,104,625,Mobile Data Collection,SECD
+373,Aleppo/???,Atareb/?????,Hoteh,C1146,,East camp,,5,,103,617,Mobile Data Collection,SECD
+651,Idleb/????,Ma'arrat An Nu'man/???? ???? ???????,Kafr Karmin,C1035,Atareb,Alrahma_camps,CP000406,5,informal_settlement,98,586,Mobile Data Collection,SECD
+1159,Idleb/????,Dana/????,Batbu,C1025,,Al Khirba Al Muhasara (and extension) / (??????? )  ?????? ????????,,5,,97,581,Mobile Data Collection,SECD
+792,Idleb/????,Dana/????,Hoteh,C1146,,Al-asbat,,5,,87,520,Mobile Data Collection,SECD
+1305,Idleb/????,Harim/????,Atareb,C1022,Atareb,Tajmae Aleiza/???? ?????,CP000498,2,collective_centre,83,495,Mobile Data Collection,SECD
+1251,Idleb/????,Dana/????,Babka,C1021,,Termanin shelter Center,,5,,75,450,Mobile Data Collection,SECD
+916,Idleb/????,Dana/????,Jazraya,C1168,,Dana Collective Center,,5,,64,385,Mobile Data Collection,SECD
+1373,Idleb/????,Maaret Tamsrin/???? ??????,Batbu,C1025,,Maqaleaa,,5,,64,381,Mobile Data Collection,SECD
+261,Aleppo/???,Ghandorah/??????,Tqad,C1143,,Alkanah tents,,10,,60,360,Mobile Data Collection,SECD
+1381,Idleb/????,Maaret Tamsrin/???? ??????,Jeineh,C1032,,Almedan,,1,collective_centre,53,316,Mobile Data Collection,SECD
+282,Aleppo/???,Ghandorah/??????,Jazraya,C1168,,Shahid Camp,,1,,52,310,Mobile Data Collection,SECD
+1378,Idleb/????,Maaret Tamsrin/???? ??????,Tqad,C1143,,Singar,,10,,50,300,Mobile Data Collection,SECD
+1389,Idleb/????,Maaret Tamsrin/???? ??????,Hoteh,C1146,,Maaret Elekhwan Camp/???? ????? ???????,,1,collective_centre,46,276,Mobile Data Collection,SECD
+580,Idleb/????,Kafr Nobol/??? ???,Jazraya,C1168,,Harsh Kofranbil Camp,,2,,36,215,Mobile Data Collection,SECD
+527,Aleppo/???,Zarbah/??????,Jazraya,C1168,,Osmania camp,,3,,35,209,Mobile Data Collection,SECD
+1420,Idleb/????,Badama/?????,Tarfawi (Tall Ed-daman),C1078,,Al Fateha/ ???????,,23,,30,179,Mobile Data Collection,SECD
+275,Aleppo/???,Ghandorah/??????,Atareb,C1022,,Qadi Camp (Jarablus),,5,,22,132,Mobile Data Collection,SECD
+669,Idleb/????,Ma'arrat An Nu'man/???? ???? ???????,Khan Al-Asal,C6428,,Al  Qasr,,6,collective_centre,21,126,Mobile Data Collection,SECD
+1289,Idleb/????,Harim/????,Mansura (Tall Ed-daman),C1080,,Al Madina,,7,,20,120,Mobile Data Collection,SECD
+512,Aleppo/???,Daret Azza/???? ???,Jazraya,C1168,,Zarzita/Dahret alkharj,,13,collective_centre,13,77,Mobile Data Collection,SECD
+1434,Idleb/????,Badama/?????,Masih,C1110,,Salma2,,4,,11,64,Mobile Data Collection,SECD
+511,Aleppo/???,Daret Azza/???? ???,Jazraya,C1168,,Zarzita camps,,3,,10,60,Mobile Data Collection,SECD
+514,Aleppo/???,Jebel Saman/??? ?????,Tarfawi (Tall Ed-daman),C1078,,KahrabaHousingcluster,,4,,6,35,Mobile Data Collection,SECD
+482,Aleppo/???,Daret Azza/???? ???,Idleb,C3871,,Um Jubina,,69,,3131,18787,Mobile data collection tool,Silk Road Organization
+262,Aleppo/???,Ghandorah/??????,Azaz,C1564,,Al-Tayba Camp,,52,,8880,53282,KoBo,Solidarites International
+853,Idleb/????,Dana/????,Shamarin,C1566,Azaz,Shams Al Hurriya/ ??? ??????,CP000278,10,formal_camp,1976,11853,KoBo,Solidarites International
+384,Aleppo/???,Atareb/?????,Salama,C1561,,Al Abiad / ??????,,1,,485,2910,KoBo,Solidarites International
+333,Aleppo/???,Atareb/?????,Azaz,C1564,,Alfurn Camp,,3,,424,2545,KoBo,Solidarites International
+1403,Idleb/????,Saraqab/?????,Dabeq,C1597,,Alihsan Camp,,33,,53,318,KoBo,Solidarites International
+953,Idleb/????,Dana/????,Shekh Bahr,C6631,,Albarakah,,13,,1167,7000,Mobile Data Collection,Syria Relief 
+1427,Idleb/????,Badama/?????,Kelly,C3949,,Lattakia,,15,,1126,6757,Mobile Data Collection,Syria Relief 
+457,Aleppo/???,Daret Azza/???? ???,Salqin,C4140,Salqin,DeirSaman,,19,,596,3162,Mobile Data Collection,Syria Relief 
+670,Idleb/????,Ma'arrat An Nu'man/???? ???? ???????,Kelly,C3949,,Al-Wafaa,,15,,583,3500,Mobile Data Collection,Syria Relief 
+675,Idleb/????,Ariha/???? ?????,Salqin,C4140,Big Hir Jamus,Maab collective center - Ariha,CP000280,11,informal_settlement,540,3237.3,Mobile Data Collection,Syria Relief 
+1302,Idleb/????,Harim/????,Dier Ballut,C1435,Dier Ballut,Kafr Aruq/???????,,37,,520,2431,Paper Forms ,Syria Relief 
+1286,Idleb/????,Harim/????,Delbiya,C4146,Big Hir Jamus,Al Azraq/ ??????,CP000281,11,informal_settlement,414,2533,Mobile Data Collection,Syria Relief 
+474,Aleppo/???,Daret Azza/???? ???,Deir Ballut,C1435,,Itihad Al-arabi,,33,,362,2063,Paper Forms ,Syria Relief 
+1288,Idleb/????,Harim/????,Salqin,C4140,,Al Madenh Monarh (Harim)/ ??????? ??????? (????),,14,,341,2048,Mobile Data Collection,Syria Relief 
+744,Idleb/????,Dana/????,Kelly,C3949,,Al Forkan/ ???????,,4,,259,1554,Mobile Data Collection,Syria Relief 
+1296,Idleb/????,Harim/????,Salqin,C4140,,Alzeraah/ ??????? ,,9,,170,1020,Mobile Data Collection,Syria Relief 
+325,Aleppo/???,Atareb/?????,Kelly,C3949,,Industrial Secondary ,,7,,167,1000,Mobile Data Collection,Syria Relief 
+579,Idleb/????,Kafr Nobol/??? ???,Salqin,C4140,,Eastern Marzita Camp/???? ??????? ??????,,6,,161,964,Mobile Data Collection,Syria Relief 
+1350,Idleb/????,Salqin/?????,Kelly,C3949,,Darbella/???????,,2,,142,850,Mobile Data Collection,Syria Relief 
+298,Aleppo/???,Jarablus/??????,Kelly,C3949,,Site 1.5km east of Helwania village,,2,,120,720,Mobile Data Collection,Syria Relief 
+329,Aleppo/???,Atareb/?????,Salqin,C4140,Salqin,Alforkan,CP000508,2,informal_settlement,80,480,Mobile Data Collection,Syria Relief 
+1393,Idleb/????,Maaret Tamsrin/???? ??????,Salqin,C4140,,Irshien Camps,,1,,45,270,Mobile Data Collection,Syria Relief 
+588,Idleb/????,Kafr Nobol/??? ???,Afrin (Afrin),C1366,,water and electric center,,18,informal_settlement,35,200,Paper Forms ,Syria Relief 
+1283,Idleb/????,Harim/????,Afrin (Afrin),C1366,,Abnaa Al Mansora,,12,informal_settlement,25,150,Paper Forms ,Syria Relief 
+62,Aleppo/???,Al Bab/?????,Ma'btali,C1552,,Shikh Alwan,,11,informal_settlement,11,55,Paper Forms ,Syria Relief 
+674,Idleb/????,Ariha/???? ?????,Afrin (Afrin),C1366,,Garage collective center - Ariha,,9,informal_settlement,10,60,Paper Forms ,Syria Relief 
+1304,Idleb/????,Harim/????,Ma'btali,C1552,,Suq Almazut,,10,collective_centre,10,40,Paper Forms ,Syria Relief 
+1371,Idleb/????,Idleb/????,Bulbul,C1391,,Sijer - Bqesemtoh Camps,,7,,6,32,Paper Forms ,Syria Relief 
+1372,Idleb/????,Maaret Tamsrin/???? ??????,Ameriyeh (Ar-Ra'ee),C1260,Al Bab,Batenta,CP000449,8,transit_camp_reception_centre,7,43,Data Collection Tool,Violet
+766,Idleb/????,Dana/????,Ma'arrat An Nu'man,C3985,,Al Majed Sector 3/ ????? 3,,32,,1937,11622,KoBo,WHH
+765,Idleb/????,Dana/????,Dana (Ma'arrat An Nu'man),C3965,,Al Majed Sector 2/ ????? 2,,21,,1393,8360,KoBo,WHH
+696,Idleb/????,Mhambal/?????,Kafr Nobol,C4068,,Mhambal,,21,collective_centre,1096,6574,KoBo,WHH
+578,Idleb/????,Kafr Nobol/??? ???,Saraqab,C3916,,Deir sunbul,,71,collective_centre,1025,6150,KoBo,WHH
+520,Aleppo/???,Zarbah/??????,Kafr Nobol,C4068,,Al Khasheer camp     ,,19,collective_centre,975,5848,KoBo,WHH
+360,Aleppo/???,Atareb/?????,Kafr Nobol,C4068,,Suq Alhal Camp,,12,collective_centre,760,4562,KoBo,WHH
+1396,Idleb/????,Maaret Tamsrin/???? ??????,Ma'arrat An Nu'man,C3985,,OwJA,,69,collective_centre,658,3950,KoBo,WHH
+572,Idleb/????,Kafr Nobol/??? ???,Harim,C4115,,alaqraa hospital(old),,41,collective_centre,615,3689,KoBo,WHH
+1377,Idleb/????,Maaret Tamsrin/???? ??????,Kafr Nobol,C4068,,Kaftin Camps,,12,collective_centre,535,3211,KoBo,WHH
+672,Idleb/????,Ma'arrat An Nu'man/???? ???? ???????,Harim,C4115,,Um Al momenin,,15,,417,2500,KoBo,WHH
+500,Aleppo/???,Daret Azza/???? ???,Harim,C4115,,Bsartun Road,,18,,342,2050,KoBo,WHH
+1285,Idleb/????,Harim/????,Idleb,C3871,,Al Aman (Harim) /  (????) ??????,,63,collective_centre,342,2050,KoBo,WHH
+299,Aleppo/???,Jarablus/??????,Ariha,C4278,,Al Karba Camp,,45,collective_centre,338,2025,KoBo,WHH
+968,Idleb/????,Dana/????,Dana (Ma'arrat An Nu'man),C3965,,Deir Hassan shelter Center,,1,,325,1947,KoBo,WHH
+943,Idleb/????,Dana/????,Kafr Nobol,C4068,,Al Mashhad,,19,,292,1754,KoBo,WHH
+146,Aleppo/???,Azaz/?????,Maarrat An Numan,C3985,Maarrat An Numan,Dabiq,,6,,273,1067,KoBo,WHH
+374,Aleppo/???,Atareb/?????,Harim,C4115,,Jeineh Collective Center,,18,collective_centre,243,1458,KoBo,WHH
+967,Idleb/????,Dana/????,Harim,C4115,,Deir Hassan school,,6,,240,1439,KoBo,WHH
+523,Aleppo/???,Zarbah/??????,Northern Ora,C3874,,Jezraia 1 camp,,3,,237,1419,KoBo,WHH
+439,Aleppo/???,Daret Azza/???? ???,Kafr Nobol,C4068,,Alkhurj camp,,14,,220,1320,KoBo,WHH
+503,Aleppo/???,Daret Azza/???? ???,Saraqab,C3916,,Raja Land,,33,,170,1019,KoBo,WHH
+1297,Idleb/????,Harim/????,Deir Hassan - Darhashan,C4129,Deir Hassan,Amihat Almuminin,CP000273,5,informal_settlement,161,965,KoBo,WHH
+1301,Idleb/????,Harim/????,Ma'arrat An Nu'man,C3985,,Jabal Harim (Sabiroon)/ ??? ???? (??????) ,,5,,149,894,KoBo,WHH
+972,Idleb/????,Dana/????,Kafr Nobol,C4068,,Halab Alshahba/ ??? ???????,,13,,148,888,KoBo,WHH
+1303,Idleb/????,Harim/????,Ma'arrat An Nu'man,C3985,,Omahat Al Moumenien/ ????? ???????? ,,3,,143,858,KoBo,WHH
+463,Aleppo/???,Daret Azza/???? ???,Ariha,C4278,,Albasatnien,,42,,140,838,KoBo,WHH
+1351,Idleb/????,Salqin/?????,Ma'arrat An Nu'man,C3985,,hmza,,1,,129,773,KoBo,WHH
+581,Idleb/????,Kafr Nobol/??? ???,Harim,C4115,Harim,Hassaneh,CP000507,5,informal_settlement,124,743,KoBo,WHH
+1361,Idleb/????,Idleb/????,Dana (Dana),C4126,,Ekthar Albzar,,15,collective_centre,123,739,KoBo,WHH
+59,Aleppo/???,Al Bab/?????,Kafr Nobol,C4068,,North Cemetery collective centre,,14,,114,686,KoBo,WHH
+1375,Idleb/????,Maaret Tamsrin/???? ??????,Maarrat An Numan,C3985,Maarrat An Numan,Masaran,,3,,110,570,KoBo,WHH
+1284,Idleb/????,Harim/????,Kafr Hum,C4117,Harim,Al Ahrash,,9,,110,635,KoBo,WHH
+289,Aleppo/???,Ghandorah/??????,Saraqab,C3916,,Southern Swaida camp,,26,,93,556,KoBo,WHH
+525,Aleppo/???,Zarbah/??????,Deir Hassan - Darhashan,C4129,,Jezraia3 camp,,5,,92,553,KoBo,WHH
+584,Idleb/????,Kafr Nobol/??? ???,Maarrat An Numan,C3985,Maarrat An Numan,kansafra center,,1,,90,461,KoBo,WHH
+260,Aleppo/???,Ghandorah/??????,Ariha,C4278,,Hajaj camp,,12,collective_centre,90,540,KoBo,WHH
+265,Aleppo/???,Ghandorah/??????,Harim,C4115,Harim,Primary school collective,CP000506,5,informal_settlement,88,529,KoBo,WHH
+3,Aleppo/???,Afrin/?????,Harim,C4115,Harim,Informal sites near industrial school,CP000413,1,informal_settlement,87,521,KoBo,WHH
+676,Idleb/????,Ariha/???? ?????,Harim,C4115,Harim,Manazal Neighbourhood,CP000390,2,informal_settlement,86,515,KoBo,WHH
+521,Aleppo/???,Zarbah/??????,Harim,C4115,Harim,Al Zyarah Camp,CP000208,6,collective_centre,83,500,KoBo,WHH
+271,Aleppo/???,Ghandorah/??????,Kafr Nobol,C4068,Kafr Nobol,Wali tents,CP000500,5,informal_settlement,81,484,KoBo,WHH
+269,Aleppo/???,Ghandorah/??????,Ma'arrat Tamasrin,C3947,,Harsh camp,,1,,73,440,KoBo,WHH
+1295,Idleb/????,Harim/????,Kafr Nobol,C4068,,Alsiasieh/ ???????? ,,2,collective_centre,71,426,KoBo,WHH
+264,Aleppo/???,Ghandorah/??????,Harim,C4115,,Mustafa camp,,4,,71,425,KoBo,WHH
+518,Aleppo/???,Tall Ed-daman/?? ??????,Ariha,C4278,,Al Mesherfa,,9,collective_centre,70,420,KoBo,WHH
+460,Aleppo/???,Daret Azza/???? ???,Harim,C4115,,Manzel Alhamed,,1,,69,415,KoBo,WHH
+284,Aleppo/???,Ghandorah/??????,Sijer - Bqesemtoh,C3873,,Mazraet Shoaib camp,,1,,68,405,KoBo,WHH
+2,Aleppo/???,Afrin/?????,Mhambal,C4330,,Informal site Old Suk,,38,,65,387,KoBo,WHH
+327,Aleppo/???,Atareb/?????,Kafr Nobol,C4068,,Misto camp,,3,collective_centre,65,387,KoBo,WHH
+515,Aleppo/???,Jebel Saman/??? ?????,Kafr Nobol,C4068,,Khan Al-Asal CC,,1,collective_centre,62,374,KoBo,WHH
+255,Aleppo/???,Ghandorah/??????,Maarrat An Numan,C3985,Maarrat An Numan,Murtafa' camp,,1,,62,369,KoBo,WHH
+516,Aleppo/???,Tall Ed-daman/?? ??????,Harim,C4115,Harim,Elrrabia,CP000446,2,informal_settlement,58,350,KoBo,WHH
+1287,Idleb/????,Harim/????,Deir Hassan - Darhashan,C4129,,Al Kaws school/ ????? ????? ,,10,collective_centre,58,345,KoBo,WHH
+573,Idleb/????,Kafr Nobol/??? ???,Mashhad Ruhin,,Deir Hassan,albaladya bulding,CP000337,5,informal_settlement,57,672,KoBo,WHH
+68,Aleppo/???,Al Bab/?????,Deir Hassan - Darhashan,C4129,,Qabasin collective tents,,2,collective_centre,52,314,KoBo,WHH
+273,Aleppo/???,Ghandorah/??????,Harim,C4115,,Safrana camp,,2,,50,300,KoBo,WHH
+526,Aleppo/???,Zarbah/??????,Harim,C4115,Harim,Western Seed Multiplication center in Meshrefat Jezraia,CP000258,1,informal_settlement,49,294,KoBo,WHH
+1246,Idleb/????,Dana/????,Deir Hassan - Darhashan,C4129,Deir Hassan,Al Rahma Transit/Reception Centre/  ???? ??????? ??????,CP000474,5,informal_settlement,48,290,KoBo,WHH
+510,Aleppo/???,Daret Azza/???? ???,Harim,C4115,Harim,Zarizta3,CP000210,1,informal_settlement,47,282,KoBo,WHH
+47,Aleppo/???,Ma'btali/??????,Kafr Nobol,C4068,,Informal site near police office,,6,,43,260,KoBo,WHH
+589,Idleb/????,Kafr Nobol/??? ???,Idleb,C3871,,zekar school,,1,,43,257,KoBo,WHH
+517,Aleppo/???,Tall Ed-daman/?? ??????,Harim,C4115,,Shaaban Farm,,1,,41,245,KoBo,WHH
+522,Aleppo/???,Zarbah/??????,Kafr Nobol,C4068,,AlManaseer Camp,,2,collective_centre,35,211,KoBo,WHH
+1,Aleppo/???,Afrin/?????,Ariha,C4278,,Informal camp Al Ashrafia,,12,,35,200,KoBo,WHH
+46,Aleppo/???,Ma'btali/??????,Harim,C4115,Harim,Collective shelters Al Azazm building,CP000207,4,collective_centre,32,190,KoBo,WHH
+80,Aleppo/???,Ar-Ra'ee/??????,Harim,C4115,Harim,Al Bab Transit/Reception Centre/ ???? ??????? ?????,CP000202,2,collective_centre,20,120,KoBo,WHH
+17,Aleppo/???,Bulbul/????,Kafr Nobol,C4068,,Al Karm collective,,1,collective_centre,19,115,KoBo,WHH
+519,Aleppo/???,Tall Ed-daman/?? ??????,Kafr Nobol,C4068,,Al Tarfawi,,1,collective_centre,11,66,KoBo,WHH
+1404,Idleb/????,Saraqab/?????,Saraqab,C3916,,Hamsho camp,,2,,5,30,KoBo,WHH
